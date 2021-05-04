@@ -1,0 +1,5 @@
+- hosts: ubuntu 
+  roles:
+#    - geerlingguy.nginx
+#    - geerlingguy.mysql
+    - geerlingguy.php
